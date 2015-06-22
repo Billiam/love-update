@@ -1,0 +1,8 @@
+Main "love-update/init.lua"
+
+Module "love-update.vendor.luajit-request" "love-update/vendor/luajit-request/init.lua"
+Module "love-update.vendor.luajit-request.luajit-curl" "love-update/vendor/luajit-request/luajit-curl.lua"
+Module "love-update.vendor.promise" "love-update/vendor/promise.lua"
+Module "love-update.thread" "love-update/thread.lua"
+
+Output "love-update.lua"
